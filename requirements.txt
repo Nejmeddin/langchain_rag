@@ -3,3 +3,12 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
+ipykernel
+sentence-transformers #transformer models for embeddings that we will use with the intermediate of huggingface
+faiss-cpu             #vector store open source 
+chromadb              #vector store open source
+langchain-groq      #langchain groq integration
+python-dotenv        #to load environment variables from .env file
+typesense         #vector store open source
+#langchain-oppenai  #langchain openai integration
+langgraph       #to visualize llm flows
